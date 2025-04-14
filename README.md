@@ -43,3 +43,12 @@
 [![](https://visitcount.itsvg.in/api?id=Samuelzito&icon=10&color=2)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 🏅 Certificados
+
+- 📜 **Introdução ao Java e Spring Boot** – emitido pela [DIO](https://www.dio.me)  
+  [🔗 Visualizar certificado](https://hermes.dio.me/certificates/HBJBG5ID.pdf)
+
+- 💻 **Formação Backend Java** – emitido pela [DIO](https://www.dio.me)  
+  [🔗 Visualizar certificado](https://hermes.dio.me/certificates/907C6048.pdf)
+
